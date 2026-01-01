@@ -66,7 +66,3 @@ A smart desktop assistant for Windows that can **open websites, launch applicati
 * GitHub: [github.com/sarthaksinghaniya](https://github.com/sarthaksinghaniya)
 
 ---
-
-If you want, I can also **make a very short one-page version suitable for GitHub** that looks **sleek and modern**, under 100 words.
-
-Do you want me to do that?
